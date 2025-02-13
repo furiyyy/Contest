@@ -1,2 +1,4 @@
+from task3 import decorator_1
+@decorator_1
 def kwargsAcceptFun(**kwargs):
     print("Received arguments:", kwargs)
