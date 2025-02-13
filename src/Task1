@@ -1,1 +1,2 @@
-
+def kwargsAcceptFun(**kwargs):
+    print("Received arguments:", kwargs)
